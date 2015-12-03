@@ -1,5 +1,5 @@
 ---
-title: The I.T lesson
+title: The I.T. lesson
 layout: post
 author: sam.rix
 permalink: /untitled-document/
