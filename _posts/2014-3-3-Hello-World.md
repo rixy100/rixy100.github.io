@@ -1,10 +1,4 @@
 ---
 layout: post
-title: You're up and running!
----
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+title: The I.T. lesson
+In the I.T. lesson we changed the backgrond colour and the title colour. We did this by going into our editing page in GitHub. Once we had done this we went into the code and changed the colour to whatever we wanted, but we did have to do it in a code language. That was what we did in the I.T. lesson.
