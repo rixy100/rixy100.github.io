@@ -1,5 +1,5 @@
 ---
-title: identitys
+title: identity
 layout: post
 author: sam.rix
 permalink: /untitled-document/
