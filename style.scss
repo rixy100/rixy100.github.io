@@ -280,7 +280,7 @@ nav {
 }
 
 footer {
-  padding: 10px 0;
+  padding: 20px 0;
   text-align: center;
 }
 
@@ -288,3 +288,11 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+#footer {
+    clear: both;
+    position: relative;
+    z-index: 10;
+    height: 3em;
+    margin-top: -3em;
+}
