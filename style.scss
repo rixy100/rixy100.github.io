@@ -24,6 +24,11 @@ body {
   color: #999999;
 }
 
+td {
+	 height: 50px;
+    vertical-align: bottom;
+}
+
 table,  th,  td {
 	border: 1px solid black;
 }
