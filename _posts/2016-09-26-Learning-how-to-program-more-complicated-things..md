@@ -1,5 +1,5 @@
 ---
-title: Learning how to program more complicated things
+title: Learning how to program more complicated things on the fuse box
 layout: post
 author: sam.rix
 permalink: /learning-how-to-program-more-complicated-things./
