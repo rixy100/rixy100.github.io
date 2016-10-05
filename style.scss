@@ -18,18 +18,8 @@ html {
 }
 body  {
 	background-image: url("http://yesofcorsa.com/wp-content/uploads/2015/08/3267_new_york_city_skyline.jpg")
-}
-body {
   color: #999999;
-}
-
-body {
     font-family: "Courier New", Courier, monospace
-}
-
-td {
-	 height: 50px;
-    vertical-align: bottom;
 }
 
 table,  th,  td {
@@ -38,7 +28,9 @@ table,  th,  td {
 
 td {
 	background-color: #233237;
-    color: white;	
+    color: white;
+	height: 50px;
+    vertical-align: bottom;
 }
 
 th {
@@ -57,17 +49,8 @@ th, td {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+
 }
- table,  th,  td{
-	border: 1px solid black;
-	}
-	
-	th, td {
-    padding: 15px;
-    text-align: left;
-    } 
-
-
 	
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
