@@ -1,5 +1,5 @@
 ---
-title: Basic fuse box tasks
+title: Learning how to program the fuse box to do tasks
 layout: post
 author: sam.rix
 permalink: /using-github-template---sam-rix/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Learning the basics of the fuse box.</td>
+    <td>Learning how to program the fuse box to do tasks.</td>
     <td>Date</td>
-    <td>16/9/16</td>
+    <td>3.10.16</td>
   </tr>
 </table>
 
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>We had a booklet and had to do different tasks on it.</td>
+    <td>We had a booklet and had to  carry on where we left off from it.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To have a Github Pages Static Website</td>
+    <td>To do 3 tasks.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective?</td>
   </tr>
   <tr>
-    <td>I learnt by copying the booklet carefully. So I didn't miss out a space or put the collons in different places to where it’s meant to be. Also if you had copied the code down as the booklet said and it still wasn’t working then you could try and spot what you have done wrong by looking for obvious error.</td>
+    <td>The strategies I used to get further in the booklet was nearly the same as last time trial and error. This was the best strategy because, if it didn't work you could try something else until you find a way that work. To do the most amount of work we shared roles so two would read the booklet to the one who was typing the code into the fuse box.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <td>What limited my learning? Which habits do I need to work </td>
   </tr>
   <tr>
-    <td>The main thing that limited my learning was that I kept making small mistakes that made the task not work. For example I kept missing out a space or putting an equals sign that’s not meant to be there.</td>
+    <td>I need to work on being more specific when reading out the code and typing the code into the fuse box. I need to be more specific when reading out the code so the person typing it into the fuse box won't have to go back to fix the mistake he made because I wasn't clear enough. And I need to be specific when typing in the code so I don't make mistakes that I have to go back on.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve </td>
   </tr>
   <tr>
-    <td>I will improve by thinking before I type something instead of just doing it and then making a mistake that breaks the task. I will also try to copying the booklet accurately so I won’t make a mistake as much as I was.</td>
+    <td>I will improve by concentrating more so I don't make mistakes when reading out the code to my partner or when I'm typing in the code into the fuse box. If I can do this I think I might be able to do four tasks.</td>
   </tr>
 </table>
 
