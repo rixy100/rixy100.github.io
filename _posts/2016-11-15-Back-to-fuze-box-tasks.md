@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Back to fuze box coding again.</td>
     <td>Date</td>
-    <td>14.11.16</td>
+    <td>21.11.16</td>
   </tr>
 </table>
 
@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>We had a booklet and had to  carry on where we left off from it.</td>
+    <td>We learnt about computing terms.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To do 3 tasks.</td>
+    <td>To learn about the terms.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>No I didn't.</td>
+    <td></td>
   </tr>
 </table>
 
@@ -41,7 +41,7 @@ published: true
     <td>How did I learn? What strategies were effective?</td>
   </tr>
   <tr>
-    <td>A strategy that was effective was totale it in turns at all the jobs (reading the booklet out to the person typing, typing the code in and finally look for any mistakes in the code being written down). If you did this you would be the most efficient.</td>
+    <td>I learnt by copying code from the booklet into the fuze box. In our little groups we all ha rolls. One typed the code into the fuze box, one read it out and the other look for mistakes. We all had goes at all the different rolls.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to </td>
