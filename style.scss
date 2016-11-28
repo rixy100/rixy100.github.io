@@ -19,9 +19,8 @@ html {
 
 body {
 	background-image: url("http://orig08.deviantart.net/bedc/f/2014/187/e/4/blue_space_background__looks_the_same_as_the_rest__by_darkdissolution-d7pgwmn.png");
-	background-repeat: repeat;
   font: 18px/1.4 $helvetica;
-  color: $aqua;
+  color: $white;
 }
 
 .container {
@@ -33,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helvetica;
-  color: $aqua;
+  color: $white;
   font-weight: bold;
 
   line-height: 1.7;
