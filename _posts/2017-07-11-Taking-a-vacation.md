@@ -1,4 +1,4 @@
-<img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/functions.png?raw=true">---
+
 title: Taking a vacation
 layout: post
 author: sam.rix
