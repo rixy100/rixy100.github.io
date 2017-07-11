@@ -1,10 +1,4 @@
 
-title: Taking a vacation
-layout: post
-author: sam.rix
-permalink: /taking-a-vacation/
-source-id: 1X1afPfqU2n6FoS10FRMXEXJk5qsBC428nBBiN6Hz_TA
-published: true
 ---
 <table>
   <tr>
